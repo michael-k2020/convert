@@ -6,7 +6,7 @@ json_file = r'C:\Users\khaza\Desktop\Udemy\Python_3_Deep_Dive\my_codes\customers
 
 with open(json_file, 'r') as json_convert:
     data = json.load(json_convert)
-#
+#empty list
 converted_file = []
 
 for entry in data:
