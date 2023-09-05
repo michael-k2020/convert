@@ -1,0 +1,4028 @@
+[
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "103"
+                },
+                "company": {
+                    "S": "Atelier graphique"
+                },
+                "last_name": {
+                    "S": "Schmitt"
+                },
+                "first_name": {
+                    "S": "Carine"
+                },
+                "phone": {
+                    "S": "40.32.2555"
+                },
+                "address": {
+                    "S": "54 Rue Royale"
+                },
+                "city_and_state": {
+                    "S": "Nantes"
+                },
+                "postal_code": {
+                    "S": "44000"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "112"
+                },
+                "company": {
+                    "S": "Signal Gift Stores"
+                },
+                "last_name": {
+                    "S": "King"
+                },
+                "first_name": {
+                    "S": "Jean"
+                },
+                "phone": {
+                    "S": "7025551838"
+                },
+                "address": {
+                    "S": "8940 Strong St."
+                },
+                "city_and_state": {
+                    "S": "Las Vegas NV"
+                },
+                "postal_code": {
+                    "S": "83030"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "114"
+                },
+                "company": {
+                    "S": "Australian Collectors Co."
+                },
+                "last_name": {
+                    "S": "Ferguson"
+                },
+                "first_name": {
+                    "S": "Peter"
+                },
+                "phone": {
+                    "S": "03 5422 4555"
+                },
+                "address": {
+                    "S": "636 St Kilda Road Level 3"
+                },
+                "city_and_state": {
+                    "S": "Melbourne Victoria"
+                },
+                "postal_code": {
+                    "S": "3004"
+                },
+                "country": {
+                    "S": "Australia"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "119"
+                },
+                "company": {
+                    "S": "La Rochelle Gifts"
+                },
+                "last_name": {
+                    "S": "Labrune"
+                },
+                "first_name": {
+                    "S": "Janine"
+                },
+                "phone": {
+                    "S": "40.42.3677"
+                },
+                "address": {
+                    "S": "43 Rue des Cinquante Otages"
+                },
+                "city_and_state": {
+                    "S": "Nantes"
+                },
+                "postal_code": {
+                    "S": "44000"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "121"
+                },
+                "company": {
+                    "S": "Baane Mini Imports"
+                },
+                "last_name": {
+                    "S": "Bergulfsen"
+                },
+                "first_name": {
+                    "S": "Jonas"
+                },
+                "phone": {
+                    "S": "31 12 2555"
+                },
+                "address": {
+                    "S": "2577 Erling Skakkes gate 78"
+                },
+                "city_and_state": {
+                    "S": "Stavern"
+                },
+                "postal_code": {
+                    "S": "4110"
+                },
+                "country": {
+                    "S": "Norway"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "124"
+                },
+                "company": {
+                    "S": "Mini Gifts Distributors Ltd."
+                },
+                "last_name": {
+                    "S": "Nelson"
+                },
+                "first_name": {
+                    "S": "Susan"
+                },
+                "phone": {
+                    "S": "31 12 3545"
+                },
+                "address": {
+                    "S": "5677 Strong St."
+                },
+                "city_and_state": {
+                    "S": "San Rafael CA"
+                },
+                "postal_code": {
+                    "S": "97562"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "125"
+                },
+                "company": {
+                    "S": "Havel & Zbyszek Co"
+                },
+                "last_name": {
+                    "S": "Piestrzeniewicz"
+                },
+                "first_name": {
+                    "S": "Zbyszek "
+                },
+                "phone": {
+                    "S": "(26) 642-7555"
+                },
+                "address": {
+                    "S": "ul. Filtrowa 68"
+                },
+                "city_and_state": {
+                    "S": "Warszawa"
+                },
+                "postal_code": {
+                    "S": "01-012"
+                },
+                "country": {
+                    "S": "Poland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "128"
+                },
+                "company": {
+                    "S": "Blauer See Auto Co."
+                },
+                "last_name": {
+                    "S": "Keitel"
+                },
+                "first_name": {
+                    "S": "Roland"
+                },
+                "phone": {
+                    "S": "+49 69 66 90 2555"
+                },
+                "address": {
+                    "S": "Lyonerstr. 34"
+                },
+                "city_and_state": {
+                    "S": "Frankfurt"
+                },
+                "postal_code": {
+                    "S": "60528"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "129"
+                },
+                "company": {
+                    "S": "Mini Wheels Co."
+                },
+                "last_name": {
+                    "S": "Murphy"
+                },
+                "first_name": {
+                    "S": "Julie"
+                },
+                "phone": {
+                    "S": "6505555787"
+                },
+                "address": {
+                    "S": "5557 North Pendale Street"
+                },
+                "city_and_state": {
+                    "S": "San Francisco CA"
+                },
+                "postal_code": {
+                    "S": "94217"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "131"
+                },
+                "company": {
+                    "S": "Land of Toys Inc."
+                },
+                "last_name": {
+                    "S": "Lee"
+                },
+                "first_name": {
+                    "S": "Kwai"
+                },
+                "phone": {
+                    "S": "2125557818"
+                },
+                "address": {
+                    "S": "897 Long Airport Avenue"
+                },
+                "city_and_state": {
+                    "S": "NYC NY"
+                },
+                "postal_code": {
+                    "S": "10022"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "141"
+                },
+                "company": {
+                    "S": "Euro+ Shopping Channel"
+                },
+                "last_name": {
+                    "S": "Freyre"
+                },
+                "first_name": {
+                    "S": "Diego "
+                },
+                "phone": {
+                    "S": "(91) 555 94 44"
+                },
+                "address": {
+                    "S": "C/ Moralzarzal"
+                },
+                "city_and_state": {
+                    "S": "Madrid"
+                },
+                "postal_code": {
+                    "S": "28034"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "144"
+                },
+                "company": {
+                    "S": "Volvo Model Replicas Co"
+                },
+                "last_name": {
+                    "S": "Berglund"
+                },
+                "first_name": {
+                    "S": "Christina "
+                },
+                "phone": {
+                    "S": "0921-12 3555"
+                },
+                "address": {
+                    "S": "Berguvsvgen  8"
+                },
+                "city_and_state": {
+                    "S": "Lule"
+                },
+                "postal_code": {
+                    "S": "S-958 22"
+                },
+                "country": {
+                    "S": "Sweden"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "145"
+                },
+                "company": {
+                    "S": "Danish Wholesale Imports"
+                },
+                "last_name": {
+                    "S": "Petersen"
+                },
+                "first_name": {
+                    "S": "Jytte "
+                },
+                "phone": {
+                    "S": "31 12 3555"
+                },
+                "address": {
+                    "S": "Vinbltet 34"
+                },
+                "city_and_state": {
+                    "S": "Kobenhavn"
+                },
+                "postal_code": {
+                    "S": "1734"
+                },
+                "country": {
+                    "S": "Denmark"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "146"
+                },
+                "company": {
+                    "S": "Saveley & Henriot Co."
+                },
+                "last_name": {
+                    "S": "Saveley"
+                },
+                "first_name": {
+                    "S": "Mary "
+                },
+                "phone": {
+                    "S": "78.32.5555"
+                },
+                "address": {
+                    "S": "Rue du Commerce"
+                },
+                "city_and_state": {
+                    "S": "Lyon"
+                },
+                "postal_code": {
+                    "S": "69004"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "148"
+                },
+                "company": {
+                    "S": "Dragon Souveniers"
+                },
+                "last_name": {
+                    "S": "Natividad"
+                },
+                "first_name": {
+                    "S": "Eric"
+                },
+                "phone": {
+                    "S": "+65 221 7555"
+                },
+                "address": {
+                    "S": "Bronz Sok."
+                },
+                "city_and_state": {
+                    "S": "Singapore"
+                },
+                "postal_code": {
+                    "S": "79903"
+                },
+                "country": {
+                    "S": "Singapore"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "151"
+                },
+                "company": {
+                    "S": "Muscle Machine Inc"
+                },
+                "last_name": {
+                    "S": "Young"
+                },
+                "first_name": {
+                    "S": "Jeff"
+                },
+                "phone": {
+                    "S": "2125557413"
+                },
+                "address": {
+                    "S": "4092 Furth Circle"
+                },
+                "city_and_state": {
+                    "S": "NYC NY"
+                },
+                "postal_code": {
+                    "S": "10022"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "157"
+                },
+                "company": {
+                    "S": "Diecast Classics Inc."
+                },
+                "last_name": {
+                    "S": "Leong"
+                },
+                "first_name": {
+                    "S": "Kelvin"
+                },
+                "phone": {
+                    "S": "2155551555"
+                },
+                "address": {
+                    "S": "7586 Pompton St."
+                },
+                "city_and_state": {
+                    "S": "Allentown PA"
+                },
+                "postal_code": {
+                    "S": "70267"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "161"
+                },
+                "company": {
+                    "S": "Technics Stores Inc."
+                },
+                "last_name": {
+                    "S": "Hashimoto"
+                },
+                "first_name": {
+                    "S": "Juri"
+                },
+                "phone": {
+                    "S": "6505556809"
+                },
+                "address": {
+                    "S": "9408 Furth Circle"
+                },
+                "city_and_state": {
+                    "S": "Burlingame CA"
+                },
+                "postal_code": {
+                    "S": "94217"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "166"
+                },
+                "company": {
+                    "S": "Handji Gifts& Co"
+                },
+                "last_name": {
+                    "S": "Victorino"
+                },
+                "first_name": {
+                    "S": "Wendy"
+                },
+                "phone": {
+                    "S": "+65 224 1555"
+                },
+                "address": {
+                    "S": "106 Linden Road Sandown"
+                },
+                "city_and_state": {
+                    "S": "Singapore"
+                },
+                "postal_code": {
+                    "S": "69045"
+                },
+                "country": {
+                    "S": "Singapore"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "167"
+                },
+                "company": {
+                    "S": "Herkku Gifts"
+                },
+                "last_name": {
+                    "S": "Oeztan"
+                },
+                "first_name": {
+                    "S": "Veysel"
+                },
+                "phone": {
+                    "S": "+47 2267 3215"
+                },
+                "address": {
+                    "S": "Brehmen St. 121"
+                },
+                "city_and_state": {
+                    "S": "Bergen"
+                },
+                "postal_code": {
+                    "S": "5804"
+                },
+                "country": {
+                    "S": "Norway  "
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "168"
+                },
+                "company": {
+                    "S": "American Souvenirs Inc"
+                },
+                "last_name": {
+                    "S": "Franco"
+                },
+                "first_name": {
+                    "S": "Keith"
+                },
+                "phone": {
+                    "S": "2035557845"
+                },
+                "address": {
+                    "S": "149 Spinnaker Dr."
+                },
+                "city_and_state": {
+                    "S": "New Haven CT"
+                },
+                "postal_code": {
+                    "S": "97823"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "169"
+                },
+                "company": {
+                    "S": "Porto Imports Co."
+                },
+                "last_name": {
+                    "S": "de Castro"
+                },
+                "first_name": {
+                    "S": "Isabel "
+                },
+                "phone": {
+                    "S": "(1) 356-5555"
+                },
+                "address": {
+                    "S": "Estrada da sade n. 58"
+                },
+                "city_and_state": {
+                    "S": "Lisboa"
+                },
+                "postal_code": {
+                    "S": "1756"
+                },
+                "country": {
+                    "S": "Portugal"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "171"
+                },
+                "company": {
+                    "S": "Daedalus Designs Imports"
+                },
+                "last_name": {
+                    "S": "Ranc\u00ef\u00bf\u00bd"
+                },
+                "first_name": {
+                    "S": "Martine "
+                },
+                "phone": {
+                    "S": "20.16.1555"
+                },
+                "address": {
+                    "S": "184 Chausse de Tournai "
+                },
+                "city_and_state": {
+                    "S": "Lille"
+                },
+                "postal_code": {
+                    "S": "59000"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "172"
+                },
+                "company": {
+                    "S": "La Corne D'abondance Co."
+                },
+                "last_name": {
+                    "S": "Bertrand"
+                },
+                "first_name": {
+                    "S": "Marie"
+                },
+                "phone": {
+                    "S": "(1) 42.34.2555"
+                },
+                "address": {
+                    "S": "265  boulevard Charonne"
+                },
+                "city_and_state": {
+                    "S": "Paris"
+                },
+                "postal_code": {
+                    "S": "75012"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "173"
+                },
+                "company": {
+                    "S": "Cambridge Collectables Co."
+                },
+                "last_name": {
+                    "S": "Tseng"
+                },
+                "first_name": {
+                    "S": "Jerry"
+                },
+                "phone": {
+                    "S": "6175555555"
+                },
+                "address": {
+                    "S": "4658 Baden Av."
+                },
+                "city_and_state": {
+                    "S": "Cambridge MA"
+                },
+                "postal_code": {
+                    "S": "51247"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "175"
+                },
+                "company": {
+                    "S": "Gift Depot Inc."
+                },
+                "last_name": {
+                    "S": "King"
+                },
+                "first_name": {
+                    "S": "Julie"
+                },
+                "phone": {
+                    "S": "2035552570"
+                },
+                "address": {
+                    "S": "25593 South Bay Ln."
+                },
+                "city_and_state": {
+                    "S": "Bridgewater CT"
+                },
+                "postal_code": {
+                    "S": "97562"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "177"
+                },
+                "company": {
+                    "S": "Osaka Souveniers Co."
+                },
+                "last_name": {
+                    "S": "Kentary"
+                },
+                "first_name": {
+                    "S": "Mory"
+                },
+                "phone": {
+                    "S": "+81 06 6342 5555"
+                },
+                "address": {
+                    "S": "1-6-20 Dojima"
+                },
+                "city_and_state": {
+                    "S": "Osaka"
+                },
+                "postal_code": {
+                    "S": " 530-0003"
+                },
+                "country": {
+                    "S": "Japan"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "181"
+                },
+                "company": {
+                    "S": "Vitachrome Inc."
+                },
+                "last_name": {
+                    "S": "Frick"
+                },
+                "first_name": {
+                    "S": "Michael"
+                },
+                "phone": {
+                    "S": "2125551500"
+                },
+                "address": {
+                    "S": "2678 Kingston Rd."
+                },
+                "city_and_state": {
+                    "S": "NYC NY"
+                },
+                "postal_code": {
+                    "S": "10022"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "186"
+                },
+                "company": {
+                    "S": "Toys of Finland Co."
+                },
+                "last_name": {
+                    "S": "Karttunen"
+                },
+                "first_name": {
+                    "S": "Matti"
+                },
+                "phone": {
+                    "S": "90-224 8555"
+                },
+                "address": {
+                    "S": "Keskuskatu 45"
+                },
+                "city_and_state": {
+                    "S": "Helsinki"
+                },
+                "postal_code": {
+                    "S": "21240"
+                },
+                "country": {
+                    "S": "Finland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "187"
+                },
+                "company": {
+                    "S": "AV Stores Co."
+                },
+                "last_name": {
+                    "S": "Ashworth"
+                },
+                "first_name": {
+                    "S": "Rachel"
+                },
+                "phone": {
+                    "S": "(171) 555-1555"
+                },
+                "address": {
+                    "S": "Fauntleroy Circus"
+                },
+                "city_and_state": {
+                    "S": "Manchester"
+                },
+                "postal_code": {
+                    "S": "EC2 5NT"
+                },
+                "country": {
+                    "S": "UK"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "189"
+                },
+                "company": {
+                    "S": "Clover Collections Co."
+                },
+                "last_name": {
+                    "S": "Cassidy"
+                },
+                "first_name": {
+                    "S": "Dean"
+                },
+                "phone": {
+                    "S": "+353 1862 1555"
+                },
+                "address": {
+                    "S": "25 Maiden Lane"
+                },
+                "city_and_state": {
+                    "S": "Dublin"
+                },
+                "postal_code": {
+                    "S": "2"
+                },
+                "country": {
+                    "S": "Ireland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "198"
+                },
+                "company": {
+                    "S": "Auto-Moto Classics Inc."
+                },
+                "last_name": {
+                    "S": "Taylor"
+                },
+                "first_name": {
+                    "S": "Leslie"
+                },
+                "phone": {
+                    "S": "6175558428"
+                },
+                "address": {
+                    "S": "16780 Pompton St."
+                },
+                "city_and_state": {
+                    "S": "Brickhaven MA"
+                },
+                "postal_code": {
+                    "S": "58339"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "201"
+                },
+                "company": {
+                    "S": "UK Collectables"
+                },
+                "last_name": {
+                    "S": "Devon"
+                },
+                "first_name": {
+                    "S": "Elizabeth"
+                },
+                "phone": {
+                    "S": "(171) 555-2282"
+                },
+                "address": {
+                    "S": "12  Berkeley Gardens Blvd"
+                },
+                "city_and_state": {
+                    "S": "Liverpool"
+                },
+                "postal_code": {
+                    "S": "WX1 6LT"
+                },
+                "country": {
+                    "S": "UK"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "202"
+                },
+                "company": {
+                    "S": "Canadian Gift Exchange Network"
+                },
+                "last_name": {
+                    "S": "Tamuri"
+                },
+                "first_name": {
+                    "S": "Yoshi "
+                },
+                "phone": {
+                    "S": "(604) 555-3392"
+                },
+                "address": {
+                    "S": "1900 Oak St."
+                },
+                "city_and_state": {
+                    "S": "Vancouver BC"
+                },
+                "postal_code": {
+                    "S": "V3F 2K1"
+                },
+                "country": {
+                    "S": "Canada"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "204"
+                },
+                "company": {
+                    "S": "Online Mini Collectables"
+                },
+                "last_name": {
+                    "S": "Barajas"
+                },
+                "first_name": {
+                    "S": "Miguel"
+                },
+                "phone": {
+                    "S": "6175557555"
+                },
+                "address": {
+                    "S": "7635 Spinnaker Dr."
+                },
+                "city_and_state": {
+                    "S": "Brickhaven MA"
+                },
+                "postal_code": {
+                    "S": "58339"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "205"
+                },
+                "company": {
+                    "S": "Toys4GrownUps.com"
+                },
+                "last_name": {
+                    "S": "Young"
+                },
+                "first_name": {
+                    "S": "Julie"
+                },
+                "phone": {
+                    "S": "6265557265"
+                },
+                "address": {
+                    "S": "78934 Hillside Dr."
+                },
+                "city_and_state": {
+                    "S": "Pasadena CA"
+                },
+                "postal_code": {
+                    "S": "90003"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "206"
+                },
+                "company": {
+                    "S": "Asian Shopping Network Co"
+                },
+                "last_name": {
+                    "S": "Walker"
+                },
+                "first_name": {
+                    "S": "Brydey"
+                },
+                "phone": {
+                    "S": "+612 9411 1555"
+                },
+                "address": {
+                    "S": "Suntec Tower Three"
+                },
+                "city_and_state": {
+                    "S": "Singapore"
+                },
+                "postal_code": {
+                    "S": "38988"
+                },
+                "country": {
+                    "S": "Singapore"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "209"
+                },
+                "company": {
+                    "S": "Mini Caravy"
+                },
+                "last_name": {
+                    "S": "Citeaux"
+                },
+                "first_name": {
+                    "S": "Frdrique "
+                },
+                "phone": {
+                    "S": "88.60.1555"
+                },
+                "address": {
+                    "S": "24  place Klber"
+                },
+                "city_and_state": {
+                    "S": "Strasbourg"
+                },
+                "postal_code": {
+                    "S": "67000"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "211"
+                },
+                "company": {
+                    "S": "King Kong Collectables Co."
+                },
+                "last_name": {
+                    "S": "Gao"
+                },
+                "first_name": {
+                    "S": "Mike"
+                },
+                "phone": {
+                    "S": "+852 2251 1555"
+                },
+                "address": {
+                    "S": "Bank of China Tower"
+                },
+                "city_and_state": {
+                    "S": "1 Garden Road"
+                },
+                "postal_code": {
+                    "S": "Central Hong Kong"
+                },
+                "country": {
+                    "S": "Hong Kong"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "216"
+                },
+                "company": {
+                    "S": "Enaco Distributors"
+                },
+                "last_name": {
+                    "S": "Saavedra"
+                },
+                "first_name": {
+                    "S": "Eduardo "
+                },
+                "phone": {
+                    "S": "(93) 203 4555"
+                },
+                "address": {
+                    "S": "Rambla de Catalua"
+                },
+                "city_and_state": {
+                    "S": "Barcelona"
+                },
+                "postal_code": {
+                    "S": "8022"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "219"
+                },
+                "company": {
+                    "S": "Boards & Toys Co."
+                },
+                "last_name": {
+                    "S": "Young"
+                },
+                "first_name": {
+                    "S": "Mary"
+                },
+                "phone": {
+                    "S": "3105552373"
+                },
+                "address": {
+                    "S": "4097 Douglas Av."
+                },
+                "city_and_state": {
+                    "S": "Glendale CA"
+                },
+                "postal_code": {
+                    "S": "92561"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "223"
+                },
+                "company": {
+                    "S": "Naturlich Autos"
+                },
+                "last_name": {
+                    "S": "Kloss"
+                },
+                "first_name": {
+                    "S": "Horst "
+                },
+                "phone": {
+                    "S": "0372-555188"
+                },
+                "address": {
+                    "S": "Taucherstra\u00ef\u00bf\u00bde 10"
+                },
+                "city_and_state": {
+                    "S": "Cunewalde"
+                },
+                "postal_code": {
+                    "S": "1307"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "227"
+                },
+                "company": {
+                    "S": "Heintze Collectables"
+                },
+                "last_name": {
+                    "S": "Ibsen"
+                },
+                "first_name": {
+                    "S": "Palle"
+                },
+                "phone": {
+                    "S": "86 21 3555"
+                },
+                "address": {
+                    "S": "Smagsloget 45"
+                },
+                "city_and_state": {
+                    "S": "rhus"
+                },
+                "postal_code": {
+                    "S": "8200"
+                },
+                "country": {
+                    "S": "Denmark"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "233"
+                },
+                "company": {
+                    "S": "Quebec Home Shopping Network"
+                },
+                "last_name": {
+                    "S": "Fresni\u00ef\u00bf\u00bdre"
+                },
+                "first_name": {
+                    "S": "Jean "
+                },
+                "phone": {
+                    "S": "(514) 555-8054"
+                },
+                "address": {
+                    "S": "43 rue St. Laurent"
+                },
+                "city_and_state": {
+                    "S": "Montral QC"
+                },
+                "postal_code": {
+                    "S": "H1J 1C3"
+                },
+                "country": {
+                    "S": "Canada"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "237"
+                },
+                "company": {
+                    "S": "ANG Resellers"
+                },
+                "last_name": {
+                    "S": "Camino"
+                },
+                "first_name": {
+                    "S": "Alejandra "
+                },
+                "phone": {
+                    "S": "(91) 745 6555"
+                },
+                "address": {
+                    "S": "Gran V\u00ef\u00bf\u00bda"
+                },
+                "city_and_state": {
+                    "S": "Madrid"
+                },
+                "postal_code": {
+                    "S": "28001"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "239"
+                },
+                "company": {
+                    "S": "Collectable Mini Designs Co."
+                },
+                "last_name": {
+                    "S": "Thompson"
+                },
+                "first_name": {
+                    "S": "Valarie"
+                },
+                "phone": {
+                    "S": "7605558146"
+                },
+                "address": {
+                    "S": "361 Furth Circle"
+                },
+                "city_and_state": {
+                    "S": "San Diego CA"
+                },
+                "postal_code": {
+                    "S": "91217"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "240"
+                },
+                "company": {
+                    "S": "giftsbymail.co.uk"
+                },
+                "last_name": {
+                    "S": "Bennett"
+                },
+                "first_name": {
+                    "S": "Helen "
+                },
+                "phone": {
+                    "S": "(198) 555-8888"
+                },
+                "address": {
+                    "S": "Garden House Crowther Way 23"
+                },
+                "city_and_state": {
+                    "S": "Cowes Isle of Wight"
+                },
+                "postal_code": {
+                    "S": "PO31 7PJ"
+                },
+                "country": {
+                    "S": "UK"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "242"
+                },
+                "company": {
+                    "S": "Alpha Cognac"
+                },
+                "last_name": {
+                    "S": "Roulet"
+                },
+                "first_name": {
+                    "S": "Annette "
+                },
+                "phone": {
+                    "S": "61.77.6555"
+                },
+                "address": {
+                    "S": "1 rue Alsace-Lorraine"
+                },
+                "city_and_state": {
+                    "S": "Toulouse"
+                },
+                "postal_code": {
+                    "S": "31000"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "247"
+                },
+                "company": {
+                    "S": "Messner Shopping Network"
+                },
+                "last_name": {
+                    "S": "Messner"
+                },
+                "first_name": {
+                    "S": "Renate "
+                },
+                "phone": {
+                    "S": "069-0555984"
+                },
+                "address": {
+                    "S": "Magazinweg 7"
+                },
+                "city_and_state": {
+                    "S": "Frankfurt"
+                },
+                "postal_code": {
+                    "S": "60528"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "249"
+                },
+                "company": {
+                    "S": "Amica Models & Co."
+                },
+                "last_name": {
+                    "S": "Accorti"
+                },
+                "first_name": {
+                    "S": "Paolo "
+                },
+                "phone": {
+                    "S": "011-4988555"
+                },
+                "address": {
+                    "S": "Via Monte Bianco 34"
+                },
+                "city_and_state": {
+                    "S": "Torino"
+                },
+                "postal_code": {
+                    "S": "10100"
+                },
+                "country": {
+                    "S": "Italy"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "250"
+                },
+                "company": {
+                    "S": "Lyon Souveniers"
+                },
+                "last_name": {
+                    "S": "Da Silva"
+                },
+                "first_name": {
+                    "S": "Daniel"
+                },
+                "phone": {
+                    "S": "+33 1 46 62 7555"
+                },
+                "address": {
+                    "S": "27 rue du Colonel Pierre Avia"
+                },
+                "city_and_state": {
+                    "S": "Paris"
+                },
+                "postal_code": {
+                    "S": "75508"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "256"
+                },
+                "company": {
+                    "S": "Auto Associ\u00ef\u00bf\u00bds & Cie."
+                },
+                "last_name": {
+                    "S": "Tonini"
+                },
+                "first_name": {
+                    "S": "Daniel "
+                },
+                "phone": {
+                    "S": "30.59.8555"
+                },
+                "address": {
+                    "S": "67 avenue de l'Europe"
+                },
+                "city_and_state": {
+                    "S": "Versailles"
+                },
+                "postal_code": {
+                    "S": "78000"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "259"
+                },
+                "company": {
+                    "S": "Toms Spezialit\u00ef\u00bf\u00bdten"
+                },
+                "last_name": {
+                    "S": "Pfalzheim"
+                },
+                "first_name": {
+                    "S": "Henriette "
+                },
+                "phone": {
+                    "S": "0221-5554327"
+                },
+                "address": {
+                    "S": "Mehrheimerstr. 369"
+                },
+                "city_and_state": {
+                    "S": "Koln"
+                },
+                "postal_code": {
+                    "S": "50739"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "260"
+                },
+                "company": {
+                    "S": "Royal Canadian Collectables"
+                },
+                "last_name": {
+                    "S": "Lincoln"
+                },
+                "first_name": {
+                    "S": "Elizabeth "
+                },
+                "phone": {
+                    "S": "(604) 555-4555"
+                },
+                "address": {
+                    "S": "23 Tsawassen Blvd."
+                },
+                "city_and_state": {
+                    "S": "Tsawassen BC"
+                },
+                "postal_code": {
+                    "S": "T2F 8M4"
+                },
+                "country": {
+                    "S": "Canada"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "273"
+                },
+                "company": {
+                    "S": "Franken Gifts Co"
+                },
+                "last_name": {
+                    "S": "Franken"
+                },
+                "first_name": {
+                    "S": "Peter "
+                },
+                "phone": {
+                    "S": "089-0877555"
+                },
+                "address": {
+                    "S": "Berliner Platz 43"
+                },
+                "city_and_state": {
+                    "S": "Munchen"
+                },
+                "postal_code": {
+                    "S": "80805"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "276"
+                },
+                "company": {
+                    "S": "Anna's Decorations"
+                },
+                "last_name": {
+                    "S": "O'Hara"
+                },
+                "first_name": {
+                    "S": "Anna"
+                },
+                "phone": {
+                    "S": "02 9936 8555"
+                },
+                "address": {
+                    "S": "201 Miller Street"
+                },
+                "city_and_state": {
+                    "S": "North Sydney"
+                },
+                "postal_code": {
+                    "S": "2060"
+                },
+                "country": {
+                    "S": "Australia"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "278"
+                },
+                "company": {
+                    "S": "Rovelli Gifts"
+                },
+                "last_name": {
+                    "S": "Rovelli"
+                },
+                "first_name": {
+                    "S": "Giovanni "
+                },
+                "phone": {
+                    "S": "035-640555"
+                },
+                "address": {
+                    "S": "Via Ludovico il Moro 22"
+                },
+                "city_and_state": {
+                    "S": "Bergamo"
+                },
+                "postal_code": {
+                    "S": "24100"
+                },
+                "country": {
+                    "S": "Italy"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "282"
+                },
+                "company": {
+                    "S": "Souveniers And Things Co."
+                },
+                "last_name": {
+                    "S": "Huxley"
+                },
+                "first_name": {
+                    "S": "Adrian"
+                },
+                "phone": {
+                    "S": "+61 2 9495 8555"
+                },
+                "address": {
+                    "S": "815 Pacific Hwy"
+                },
+                "city_and_state": {
+                    "S": "Chatswood NSW"
+                },
+                "postal_code": {
+                    "S": "2067"
+                },
+                "country": {
+                    "S": "Australia"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "286"
+                },
+                "company": {
+                    "S": "Marta's Replicas Co."
+                },
+                "last_name": {
+                    "S": "Hernandez"
+                },
+                "first_name": {
+                    "S": "Marta"
+                },
+                "phone": {
+                    "S": "6175558555"
+                },
+                "address": {
+                    "S": "39323 Spinnaker Dr."
+                },
+                "city_and_state": {
+                    "S": "Cambridge MA"
+                },
+                "postal_code": {
+                    "S": "51247"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "293"
+                },
+                "company": {
+                    "S": "BG&E Collectables"
+                },
+                "last_name": {
+                    "S": "Harrison"
+                },
+                "first_name": {
+                    "S": "Ed"
+                },
+                "phone": {
+                    "S": "+41 26 425 50 01"
+                },
+                "address": {
+                    "S": "Rte des Arsenaux 41 "
+                },
+                "city_and_state": {
+                    "S": "Fribourg"
+                },
+                "postal_code": {
+                    "S": "1700"
+                },
+                "country": {
+                    "S": "Switzerland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "298"
+                },
+                "company": {
+                    "S": "Vida Sport"
+                },
+                "last_name": {
+                    "S": "Holz"
+                },
+                "first_name": {
+                    "S": "Mihael"
+                },
+                "phone": {
+                    "S": "0897-034555"
+                },
+                "address": {
+                    "S": "Grenzacherweg 237"
+                },
+                "city_and_state": {
+                    "S": "Geneve"
+                },
+                "postal_code": {
+                    "S": "1203"
+                },
+                "country": {
+                    "S": "Switzerland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "299"
+                },
+                "company": {
+                    "S": "Norway Gifts By Mail Co."
+                },
+                "last_name": {
+                    "S": "Klaeboe"
+                },
+                "first_name": {
+                    "S": "Jan"
+                },
+                "phone": {
+                    "S": "+47 2212 1555"
+                },
+                "address": {
+                    "S": "Drammensveien 126A"
+                },
+                "city_and_state": {
+                    "S": "Oslo"
+                },
+                "postal_code": {
+                    "S": "106"
+                },
+                "country": {
+                    "S": "Norway  "
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "303"
+                },
+                "company": {
+                    "S": "Schuyler Imports"
+                },
+                "last_name": {
+                    "S": "Schuyler"
+                },
+                "first_name": {
+                    "S": "Bradley"
+                },
+                "phone": {
+                    "S": "+31 20 491 9555"
+                },
+                "address": {
+                    "S": "Kingsfordweg 151"
+                },
+                "city_and_state": {
+                    "S": "Amsterdam"
+                },
+                "postal_code": {
+                    "S": "1043 GR"
+                },
+                "country": {
+                    "S": "Netherlands"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "307"
+                },
+                "company": {
+                    "S": "Der Hund Imports"
+                },
+                "last_name": {
+                    "S": "Andersen"
+                },
+                "first_name": {
+                    "S": "Mel"
+                },
+                "phone": {
+                    "S": "030-0074555"
+                },
+                "address": {
+                    "S": "Obere Str. 57"
+                },
+                "city_and_state": {
+                    "S": "Berlin"
+                },
+                "postal_code": {
+                    "S": "12209"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "311"
+                },
+                "company": {
+                    "S": "Oulu Toy Supplies"
+                },
+                "last_name": {
+                    "S": "Koskitalo"
+                },
+                "first_name": {
+                    "S": "Pirkko"
+                },
+                "phone": {
+                    "S": "981-443655"
+                },
+                "address": {
+                    "S": "Torikatu 38"
+                },
+                "city_and_state": {
+                    "S": "Oulu"
+                },
+                "postal_code": {
+                    "S": "90110"
+                },
+                "country": {
+                    "S": "Finland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "314"
+                },
+                "company": {
+                    "S": "Petit Auto"
+                },
+                "last_name": {
+                    "S": "Dewey"
+                },
+                "first_name": {
+                    "S": "Catherine "
+                },
+                "phone": {
+                    "S": "(02) 5554 67"
+                },
+                "address": {
+                    "S": "Rue Joseph-Bens 532"
+                },
+                "city_and_state": {
+                    "S": "Bruxelles"
+                },
+                "postal_code": {
+                    "S": "B-1180"
+                },
+                "country": {
+                    "S": "Belgium"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "319"
+                },
+                "company": {
+                    "S": "Mini Classics"
+                },
+                "last_name": {
+                    "S": "Frick"
+                },
+                "first_name": {
+                    "S": "Steve"
+                },
+                "phone": {
+                    "S": "9145554562"
+                },
+                "address": {
+                    "S": "3758 North Pendale Street"
+                },
+                "city_and_state": {
+                    "S": "White Plains NY"
+                },
+                "postal_code": {
+                    "S": "24067"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "320"
+                },
+                "company": {
+                    "S": "Mini Creations Ltd."
+                },
+                "last_name": {
+                    "S": "Huang"
+                },
+                "first_name": {
+                    "S": "Wing"
+                },
+                "phone": {
+                    "S": "5085559555"
+                },
+                "address": {
+                    "S": "4575 Hillside Dr."
+                },
+                "city_and_state": {
+                    "S": "New Bedford MA"
+                },
+                "postal_code": {
+                    "S": "50553"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "321"
+                },
+                "company": {
+                    "S": "Corporate Gift Ideas Co."
+                },
+                "last_name": {
+                    "S": "Brown"
+                },
+                "first_name": {
+                    "S": "Julie"
+                },
+                "phone": {
+                    "S": "6505551386"
+                },
+                "address": {
+                    "S": "7734 Strong St."
+                },
+                "city_and_state": {
+                    "S": "San Francisco CA"
+                },
+                "postal_code": {
+                    "S": "94217"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "323"
+                },
+                "company": {
+                    "S": "Down Under Souveniers"
+                },
+                "last_name": {
+                    "S": "Graham"
+                },
+                "first_name": {
+                    "S": "Mike"
+                },
+                "phone": {
+                    "S": "+64 9 312 5555"
+                },
+                "address": {
+                    "S": "162-164 Grafton Road"
+                },
+                "city_and_state": {
+                    "S": "Auckland"
+                },
+                "postal_code": {
+                    "S": "849485"
+                },
+                "country": {
+                    "S": "New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "324"
+                },
+                "company": {
+                    "S": "Stylish Desk Decors Co."
+                },
+                "last_name": {
+                    "S": "Brown"
+                },
+                "first_name": {
+                    "S": "Ann "
+                },
+                "phone": {
+                    "S": "(171) 555-0297"
+                },
+                "address": {
+                    "S": "35 King George"
+                },
+                "city_and_state": {
+                    "S": "London"
+                },
+                "postal_code": {
+                    "S": "WX3 6FW"
+                },
+                "country": {
+                    "S": "UK"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "328"
+                },
+                "company": {
+                    "S": "Tekni Collectables Inc."
+                },
+                "last_name": {
+                    "S": "Brown"
+                },
+                "first_name": {
+                    "S": "William"
+                },
+                "phone": {
+                    "S": "2015559350"
+                },
+                "address": {
+                    "S": "7476 Moss Rd."
+                },
+                "city_and_state": {
+                    "S": "Newark NJ"
+                },
+                "postal_code": {
+                    "S": "94019"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "333"
+                },
+                "company": {
+                    "S": "Australian Gift Network Co"
+                },
+                "last_name": {
+                    "S": "Calaghan"
+                },
+                "first_name": {
+                    "S": "Ben"
+                },
+                "phone": {
+                    "S": "61-7-3844-6555"
+                },
+                "address": {
+                    "S": "31 Duncan St. West End"
+                },
+                "city_and_state": {
+                    "S": "South Brisbane"
+                },
+                "postal_code": {
+                    "S": "4101"
+                },
+                "country": {
+                    "S": "Australia"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "334"
+                },
+                "company": {
+                    "S": "Suominen Souveniers"
+                },
+                "last_name": {
+                    "S": "Suominen"
+                },
+                "first_name": {
+                    "S": "Kalle"
+                },
+                "phone": {
+                    "S": "+358 9 8045 555"
+                },
+                "address": {
+                    "S": "Software Engineering Center"
+                },
+                "city_and_state": {
+                    "S": "Espoo"
+                },
+                "postal_code": {
+                    "S": "FIN-02271"
+                },
+                "country": {
+                    "S": "Finland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "335"
+                },
+                "company": {
+                    "S": "Cramer Spezialit\u00ef\u00bf\u00bdten"
+                },
+                "last_name": {
+                    "S": "Cramer"
+                },
+                "first_name": {
+                    "S": "Philip "
+                },
+                "phone": {
+                    "S": "0555-09555"
+                },
+                "address": {
+                    "S": "Maubelstr. 90"
+                },
+                "city_and_state": {
+                    "S": "Brandenburg"
+                },
+                "postal_code": {
+                    "S": "14776"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "339"
+                },
+                "company": {
+                    "S": "Classic Gift Ideas"
+                },
+                "last_name": {
+                    "S": "Cervantes"
+                },
+                "first_name": {
+                    "S": "Francisca"
+                },
+                "phone": {
+                    "S": "2155554695"
+                },
+                "address": {
+                    "S": "782 First Street"
+                },
+                "city_and_state": {
+                    "S": "Philadelphia PA"
+                },
+                "postal_code": {
+                    "S": "71270"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "344"
+                },
+                "company": {
+                    "S": "CAF Imports"
+                },
+                "last_name": {
+                    "S": "Fernandez"
+                },
+                "first_name": {
+                    "S": "Jesus"
+                },
+                "phone": {
+                    "S": "+34 913 728 555"
+                },
+                "address": {
+                    "S": "27-30 Merchant's Quay"
+                },
+                "city_and_state": {
+                    "S": "Madrid"
+                },
+                "postal_code": {
+                    "S": "28023"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "347"
+                },
+                "company": {
+                    "S": "Men 'R' US Retailers"
+                },
+                "last_name": {
+                    "S": "Chandler"
+                },
+                "first_name": {
+                    "S": "Brian"
+                },
+                "phone": {
+                    "S": "2155554369"
+                },
+                "address": {
+                    "S": "6047 Douglas Av."
+                },
+                "city_and_state": {
+                    "S": "Los Angeles CA"
+                },
+                "postal_code": {
+                    "S": "91003"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "348"
+                },
+                "company": {
+                    "S": "Asian Treasures"
+                },
+                "last_name": {
+                    "S": "McKenna"
+                },
+                "first_name": {
+                    "S": "Patricia "
+                },
+                "phone": {
+                    "S": "2967 555"
+                },
+                "address": {
+                    "S": "8 Johnstown Road"
+                },
+                "city_and_state": {
+                    "S": "Cork"
+                },
+                "postal_code": {
+                    "S": "484940"
+                },
+                "country": {
+                    "S": "Ireland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "350"
+                },
+                "company": {
+                    "S": "Marseille Mini Autos"
+                },
+                "last_name": {
+                    "S": "Lebihan"
+                },
+                "first_name": {
+                    "S": "Laurence "
+                },
+                "phone": {
+                    "S": "91.24.4555"
+                },
+                "address": {
+                    "S": "12  rue des Bouchers"
+                },
+                "city_and_state": {
+                    "S": "Marseille"
+                },
+                "postal_code": {
+                    "S": "13008"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "353"
+                },
+                "company": {
+                    "S": "Reims Collectables"
+                },
+                "last_name": {
+                    "S": "Henriot"
+                },
+                "first_name": {
+                    "S": "Paul "
+                },
+                "phone": {
+                    "S": "26.47.1555"
+                },
+                "address": {
+                    "S": "59 rue de l'Abbaye"
+                },
+                "city_and_state": {
+                    "S": "Reims"
+                },
+                "postal_code": {
+                    "S": "51100"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "356"
+                },
+                "company": {
+                    "S": "SAR Distributors Co"
+                },
+                "last_name": {
+                    "S": "Kuger"
+                },
+                "first_name": {
+                    "S": "Armand"
+                },
+                "phone": {
+                    "S": "+27 21 550 3555"
+                },
+                "address": {
+                    "S": "1250 Pretorius Street"
+                },
+                "city_and_state": {
+                    "S": "Hatfield Pretoria"
+                },
+                "postal_code": {
+                    "S": "28"
+                },
+                "country": {
+                    "S": "South Africa"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "357"
+                },
+                "company": {
+                    "S": "GiftsForHim.com"
+                },
+                "last_name": {
+                    "S": "MacKinlay"
+                },
+                "first_name": {
+                    "S": "Wales"
+                },
+                "phone": {
+                    "S": "64-9-3763555"
+                },
+                "address": {
+                    "S": "199 Great North Road"
+                },
+                "city_and_state": {
+                    "S": "Auckland"
+                },
+                "postal_code": {
+                    "S": "12563"
+                },
+                "country": {
+                    "S": "New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "361"
+                },
+                "company": {
+                    "S": "Kommission Auto"
+                },
+                "last_name": {
+                    "S": "Josephs"
+                },
+                "first_name": {
+                    "S": "Karin"
+                },
+                "phone": {
+                    "S": "0251-555259"
+                },
+                "address": {
+                    "S": "Luisenstr. 48"
+                },
+                "city_and_state": {
+                    "S": "Munster"
+                },
+                "postal_code": {
+                    "S": "44087"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "362"
+                },
+                "company": {
+                    "S": "Gifts4AllAges.com"
+                },
+                "last_name": {
+                    "S": "Yoshido"
+                },
+                "first_name": {
+                    "S": "Juri"
+                },
+                "phone": {
+                    "S": "6175559555"
+                },
+                "address": {
+                    "S": "8616 Spinnaker Dr."
+                },
+                "city_and_state": {
+                    "S": "Boston MA"
+                },
+                "postal_code": {
+                    "S": "51003"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "363"
+                },
+                "company": {
+                    "S": "Online Diecast Creations Co."
+                },
+                "last_name": {
+                    "S": "Young"
+                },
+                "first_name": {
+                    "S": "Dorothy"
+                },
+                "phone": {
+                    "S": "6035558647"
+                },
+                "address": {
+                    "S": "2304 Long Airport Avenue"
+                },
+                "city_and_state": {
+                    "S": "Nashua NH"
+                },
+                "postal_code": {
+                    "S": "62005"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "369"
+                },
+                "company": {
+                    "S": "Lisboa Souveniers"
+                },
+                "last_name": {
+                    "S": "Rodriguez"
+                },
+                "first_name": {
+                    "S": "Lino "
+                },
+                "phone": {
+                    "S": "(1) 354-2555"
+                },
+                "address": {
+                    "S": "Jardim das rosas n. 32"
+                },
+                "city_and_state": {
+                    "S": "Lisboa"
+                },
+                "postal_code": {
+                    "S": "3533"
+                },
+                "country": {
+                    "S": "Portugal"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "376"
+                },
+                "company": {
+                    "S": "Precious Collectables"
+                },
+                "last_name": {
+                    "S": "Urs"
+                },
+                "first_name": {
+                    "S": "Braun"
+                },
+                "phone": {
+                    "S": "0452-076555"
+                },
+                "address": {
+                    "S": "Hauptstr. 29"
+                },
+                "city_and_state": {
+                    "S": "Bern"
+                },
+                "postal_code": {
+                    "S": "3012"
+                },
+                "country": {
+                    "S": "Switzerland"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "379"
+                },
+                "company": {
+                    "S": "Collectables For Less Inc."
+                },
+                "last_name": {
+                    "S": "Nelson"
+                },
+                "first_name": {
+                    "S": "Allen"
+                },
+                "phone": {
+                    "S": "6175558555"
+                },
+                "address": {
+                    "S": "7825 Douglas Av."
+                },
+                "city_and_state": {
+                    "S": "Brickhaven MA"
+                },
+                "postal_code": {
+                    "S": "58339"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "381"
+                },
+                "company": {
+                    "S": "Royale Belge"
+                },
+                "last_name": {
+                    "S": "Cartrain"
+                },
+                "first_name": {
+                    "S": "Pascale "
+                },
+                "phone": {
+                    "S": "(071) 23 67 2555"
+                },
+                "address": {
+                    "S": "Boulevard Tirou"
+                },
+                "city_and_state": {
+                    "S": "Charleroi"
+                },
+                "postal_code": {
+                    "S": "B-6000"
+                },
+                "country": {
+                    "S": "Belgium"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "382"
+                },
+                "company": {
+                    "S": "Salzburg Collectables"
+                },
+                "last_name": {
+                    "S": "Pipps"
+                },
+                "first_name": {
+                    "S": "Georg "
+                },
+                "phone": {
+                    "S": "6562-9555"
+                },
+                "address": {
+                    "S": "Geislweg 14"
+                },
+                "city_and_state": {
+                    "S": "Salzburg"
+                },
+                "postal_code": {
+                    "S": "5020"
+                },
+                "country": {
+                    "S": "Austria"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "385"
+                },
+                "company": {
+                    "S": "Cruz & Sons Co."
+                },
+                "last_name": {
+                    "S": "Cruz"
+                },
+                "first_name": {
+                    "S": "Arnold"
+                },
+                "phone": {
+                    "S": "+63 2 555 3587"
+                },
+                "address": {
+                    "S": "15 McCallum Street"
+                },
+                "city_and_state": {
+                    "S": "Makati City"
+                },
+                "postal_code": {
+                    "S": "1227 MM"
+                },
+                "country": {
+                    "S": "Philippines"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "386"
+                },
+                "company": {
+                    "S": "L'ordine Souveniers"
+                },
+                "last_name": {
+                    "S": "Moroni"
+                },
+                "first_name": {
+                    "S": "Maurizio "
+                },
+                "phone": {
+                    "S": "0522-556555"
+                },
+                "address": {
+                    "S": "Strada Provinciale 124"
+                },
+                "city_and_state": {
+                    "S": "Reggio Emilia"
+                },
+                "postal_code": {
+                    "S": "15645"
+                },
+                "country": {
+                    "S": "Italy"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "398"
+                },
+                "company": {
+                    "S": "Tokyo Collectables"
+                },
+                "last_name": {
+                    "S": " Ltd"
+                },
+                "first_name": {
+                    "S": "Shimamura"
+                },
+                "phone": {
+                    "S": "Akiko"
+                },
+                "address": {
+                    "S": "+81 3 3584 0555"
+                },
+                "city_and_state": {
+                    "S": "Tokyo"
+                },
+                "postal_code": {
+                    "S": "106-0032"
+                },
+                "country": {
+                    "S": "Japan"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "406"
+                },
+                "company": {
+                    "S": "Auto Canal+ Petit"
+                },
+                "last_name": {
+                    "S": "Perrier"
+                },
+                "first_name": {
+                    "S": "Dominique"
+                },
+                "phone": {
+                    "S": "(1) 47.55.6555"
+                },
+                "address": {
+                    "S": "25  rue Lauriston"
+                },
+                "city_and_state": {
+                    "S": "Paris"
+                },
+                "postal_code": {
+                    "S": "75016"
+                },
+                "country": {
+                    "S": "France"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "409"
+                },
+                "company": {
+                    "S": "Stuttgart Collectable Exchange"
+                },
+                "last_name": {
+                    "S": "M\u00ef\u00bf\u00bdller"
+                },
+                "first_name": {
+                    "S": "Rita "
+                },
+                "phone": {
+                    "S": "0711-555361"
+                },
+                "address": {
+                    "S": "Adenauerallee 900"
+                },
+                "city_and_state": {
+                    "S": "Stuttgart"
+                },
+                "postal_code": {
+                    "S": "4564654"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "412"
+                },
+                "company": {
+                    "S": "Extreme Desk Decorations"
+                },
+                "last_name": {
+                    "S": "McRoy"
+                },
+                "first_name": {
+                    "S": "Sarah"
+                },
+                "phone": {
+                    "S": "04 499 9555"
+                },
+                "address": {
+                    "S": "101 Lambton Quay"
+                },
+                "city_and_state": {
+                    "S": "Wellington"
+                },
+                "postal_code": {
+                    "S": "54654"
+                },
+                "country": {
+                    "S": "New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "415"
+                },
+                "company": {
+                    "S": "Bavarian Collectables Imports Co."
+                },
+                "last_name": {
+                    "S": "Donnermeyer"
+                },
+                "first_name": {
+                    "S": "Michael"
+                },
+                "phone": {
+                    "S": " +49 89 61 08 9555"
+                },
+                "address": {
+                    "S": "Hansastr. 15"
+                },
+                "city_and_state": {
+                    "S": "Munich"
+                },
+                "postal_code": {
+                    "S": "468412"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "424"
+                },
+                "company": {
+                    "S": "Classic Legends Inc."
+                },
+                "last_name": {
+                    "S": "Hernandez"
+                },
+                "first_name": {
+                    "S": "Maria"
+                },
+                "phone": {
+                    "S": "2125558493"
+                },
+                "address": {
+                    "S": "5905 Pompton St."
+                },
+                "city_and_state": {
+                    "S": "NYC NY"
+                },
+                "postal_code": {
+                    "S": "10022"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "443"
+                },
+                "company": {
+                    "S": "Feuer Online Stores"
+                },
+                "last_name": {
+                    "S": "Feuer"
+                },
+                "first_name": {
+                    "S": "Alexander "
+                },
+                "phone": {
+                    "S": "0342-555176"
+                },
+                "address": {
+                    "S": "Heerstr. 22"
+                },
+                "city_and_state": {
+                    "S": "Leipzig"
+                },
+                "postal_code": {
+                    "S": "4956"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "447"
+                },
+                "company": {
+                    "S": "Gift Ideas Corp."
+                },
+                "last_name": {
+                    "S": "Lewis"
+                },
+                "first_name": {
+                    "S": "Dan"
+                },
+                "phone": {
+                    "S": "2035554407"
+                },
+                "address": {
+                    "S": "2440 Pompton St."
+                },
+                "city_and_state": {
+                    "S": "Glendale CT"
+                },
+                "postal_code": {
+                    "S": "97561"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "448"
+                },
+                "company": {
+                    "S": "Scandinavian Gift Ideas"
+                },
+                "last_name": {
+                    "S": "Larsson"
+                },
+                "first_name": {
+                    "S": "Martha"
+                },
+                "phone": {
+                    "S": "0695-34 6555"
+                },
+                "address": {
+                    "S": "Kergatan 24"
+                },
+                "city_and_state": {
+                    "S": "Stockholm"
+                },
+                "postal_code": {
+                    "S": "465489"
+                },
+                "country": {
+                    "S": "Sweden"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "450"
+                },
+                "company": {
+                    "S": "The Sharp Gifts Warehouse"
+                },
+                "last_name": {
+                    "S": "Frick"
+                },
+                "first_name": {
+                    "S": "Sue"
+                },
+                "phone": {
+                    "S": "4085553659"
+                },
+                "address": {
+                    "S": "3086 Ingle Ln."
+                },
+                "city_and_state": {
+                    "S": "San Jose CA"
+                },
+                "postal_code": {
+                    "S": "94217"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "452"
+                },
+                "company": {
+                    "S": "Mini Auto Werke"
+                },
+                "last_name": {
+                    "S": "Mendel"
+                },
+                "first_name": {
+                    "S": "Roland "
+                },
+                "phone": {
+                    "S": "7675-3555"
+                },
+                "address": {
+                    "S": "Kirchgasse 6"
+                },
+                "city_and_state": {
+                    "S": "Graz"
+                },
+                "postal_code": {
+                    "S": "8010"
+                },
+                "country": {
+                    "S": "Austria"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "455"
+                },
+                "company": {
+                    "S": "Super Scale Inc."
+                },
+                "last_name": {
+                    "S": "Murphy"
+                },
+                "first_name": {
+                    "S": "Leslie"
+                },
+                "phone": {
+                    "S": "2035559545"
+                },
+                "address": {
+                    "S": "567 North Pendale Street"
+                },
+                "city_and_state": {
+                    "S": "New Haven CT"
+                },
+                "postal_code": {
+                    "S": "97823"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "456"
+                },
+                "company": {
+                    "S": "Microscale Inc."
+                },
+                "last_name": {
+                    "S": "Choi"
+                },
+                "first_name": {
+                    "S": "Yu"
+                },
+                "phone": {
+                    "S": "2125551957"
+                },
+                "address": {
+                    "S": "5290 North Pendale Street"
+                },
+                "city_and_state": {
+                    "S": "NYC NY"
+                },
+                "postal_code": {
+                    "S": "10022"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "458"
+                },
+                "company": {
+                    "S": "Corrida Auto Replicas"
+                },
+                "last_name": {
+                    "S": "Sommer"
+                },
+                "first_name": {
+                    "S": "Mart\u00ef\u00bf\u00bdn "
+                },
+                "phone": {
+                    "S": "(91) 555 22 82"
+                },
+                "address": {
+                    "S": "C/ Araquil"
+                },
+                "city_and_state": {
+                    "S": " Madrid"
+                },
+                "postal_code": {
+                    "S": "28461"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "459"
+                },
+                "company": {
+                    "S": "Warburg Exchange"
+                },
+                "last_name": {
+                    "S": "Ottlieb"
+                },
+                "first_name": {
+                    "S": "Sven "
+                },
+                "phone": {
+                    "S": "0241-039123"
+                },
+                "address": {
+                    "S": "Walserweg 21"
+                },
+                "city_and_state": {
+                    "S": "Aachen"
+                },
+                "postal_code": {
+                    "S": "46561"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "462"
+                },
+                "company": {
+                    "S": "FunGiftIdeas.com"
+                },
+                "last_name": {
+                    "S": "Benitez"
+                },
+                "first_name": {
+                    "S": "Violeta"
+                },
+                "phone": {
+                    "S": "5085552555"
+                },
+                "address": {
+                    "S": "1785 First StreetNew Bedford"
+                },
+                "city_and_state": {
+                    "S": "MA"
+                },
+                "postal_code": {
+                    "S": "50553"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "465"
+                },
+                "company": {
+                    "S": "Anton Designs"
+                },
+                "last_name": {
+                    "S": "Anton"
+                },
+                "first_name": {
+                    "S": "Carmen"
+                },
+                "phone": {
+                    "S": "+34 913 728555"
+                },
+                "address": {
+                    "S": "c/ Gobelas"
+                },
+                "city_and_state": {
+                    "S": "Madrid"
+                },
+                "postal_code": {
+                    "S": "28465"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "471"
+                },
+                "company": {
+                    "S": "Australian Collectables"
+                },
+                "last_name": {
+                    "S": "Clenahan"
+                },
+                "first_name": {
+                    "S": "Sean"
+                },
+                "phone": {
+                    "S": "61-9-3844-6555"
+                },
+                "address": {
+                    "S": "7 Allen StreetGlen Waverly"
+                },
+                "city_and_state": {
+                    "S": "Victoria"
+                },
+                "postal_code": {
+                    "S": "3150"
+                },
+                "country": {
+                    "S": "Australia"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "473"
+                },
+                "company": {
+                    "S": "Frau da Collezione"
+                },
+                "last_name": {
+                    "S": "Ricotti"
+                },
+                "first_name": {
+                    "S": "Franco"
+                },
+                "phone": {
+                    "S": "+39 022515555"
+                },
+                "address": {
+                    "S": "20093 Cologno Monzese"
+                },
+                "city_and_state": {
+                    "S": "Milan"
+                },
+                "postal_code": {
+                    "S": "15642"
+                },
+                "country": {
+                    "S": "Italy"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "475"
+                },
+                "company": {
+                    "S": "West Coast Collectables Co."
+                },
+                "last_name": {
+                    "S": "Thompson"
+                },
+                "first_name": {
+                    "S": "Steve"
+                },
+                "phone": {
+                    "S": "3105553722"
+                },
+                "address": {
+                    "S": "3675 Furth Circle"
+                },
+                "city_and_state": {
+                    "S": "Burbank CA"
+                },
+                "postal_code": {
+                    "S": "94019"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "477"
+                },
+                "company": {
+                    "S": "Mit Vergn\u00ef\u00bf\u00bdgen & Co."
+                },
+                "last_name": {
+                    "S": "Moos"
+                },
+                "first_name": {
+                    "S": "Hanna "
+                },
+                "phone": {
+                    "S": "0621-08555"
+                },
+                "address": {
+                    "S": "Forsterstr. 57"
+                },
+                "city_and_state": {
+                    "S": "Mannheim"
+                },
+                "postal_code": {
+                    "S": "68549"
+                },
+                "country": {
+                    "S": "Germany"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "480"
+                },
+                "company": {
+                    "S": "Kremlin Collectables Co."
+                },
+                "last_name": {
+                    "S": "Semenov"
+                },
+                "first_name": {
+                    "S": "Alexander "
+                },
+                "phone": {
+                    "S": "+7 812 293 0521"
+                },
+                "address": {
+                    "S": "2 Pobedy Square"
+                },
+                "city_and_state": {
+                    "S": "St Petersburg"
+                },
+                "postal_code": {
+                    "S": "19548"
+                },
+                "country": {
+                    "S": "Russia"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "481"
+                },
+                "company": {
+                    "S": "Raanan Stores"
+                },
+                "last_name": {
+                    "S": "Altagar"
+                },
+                "first_name": {
+                    "S": "Raanan"
+                },
+                "phone": {
+                    "S": "+ 972 9 959 8555"
+                },
+                "address": {
+                    "S": "3 Hagalim Blv.Herzlia47625"
+                },
+                "city_and_state": {
+                    "S": "Tel Aviv"
+                },
+                "postal_code": {
+                    "S": "164800"
+                },
+                "country": {
+                    "S": "Israel"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "484"
+                },
+                "company": {
+                    "S": "Iberia Gift Imports Corp."
+                },
+                "last_name": {
+                    "S": "Roel"
+                },
+                "first_name": {
+                    "S": "Jos\u00ef\u00bf\u00bd Pedro "
+                },
+                "phone": {
+                    "S": "(95) 555 82 82"
+                },
+                "address": {
+                    "S": "C/ Romero"
+                },
+                "city_and_state": {
+                    "S": "Sevilla"
+                },
+                "postal_code": {
+                    "S": "156454"
+                },
+                "country": {
+                    "S": "Spain"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "486"
+                },
+                "company": {
+                    "S": "Motor Mint Distributors Inc."
+                },
+                "last_name": {
+                    "S": "Salazar"
+                },
+                "first_name": {
+                    "S": "Rosa"
+                },
+                "phone": {
+                    "S": "2155559857"
+                },
+                "address": {
+                    "S": "11328 Douglas Av."
+                },
+                "city_and_state": {
+                    "S": "Philadelphia PA"
+                },
+                "postal_code": {
+                    "S": "71270"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "487"
+                },
+                "company": {
+                    "S": "Signal Collectibles Ltd."
+                },
+                "last_name": {
+                    "S": "Taylor"
+                },
+                "first_name": {
+                    "S": "Sue"
+                },
+                "phone": {
+                    "S": "4155554312"
+                },
+                "address": {
+                    "S": "2793 Furth CircleBrisbane"
+                },
+                "city_and_state": {
+                    "S": "San Francisco CA"
+                },
+                "postal_code": {
+                    "S": "94217"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "489"
+                },
+                "company": {
+                    "S": "Double Decker Gift Stores"
+                },
+                "last_name": {
+                    "S": "Smith"
+                },
+                "first_name": {
+                    "S": "Thomas "
+                },
+                "phone": {
+                    "S": "(171) 555-7555"
+                },
+                "address": {
+                    "S": "120 Hanover Sq"
+                },
+                "city_and_state": {
+                    "S": "London"
+                },
+                "postal_code": {
+                    "S": "156546"
+                },
+                "country": {
+                    "S": "UK"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "495"
+                },
+                "company": {
+                    "S": "Diecast Collectables"
+                },
+                "last_name": {
+                    "S": "Franco"
+                },
+                "first_name": {
+                    "S": "Valarie"
+                },
+                "phone": {
+                    "S": "6175552555"
+                },
+                "address": {
+                    "S": "6251 Ingle Ln."
+                },
+                "city_and_state": {
+                    "S": "Boston MA"
+                },
+                "postal_code": {
+                    "S": "51003"
+                },
+                "country": {
+                    "S": "USA"
+                }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "id": {
+                    "S": "496"
+                },
+                "company": {
+                    "S": "Kelly's Gift Shop"
+                },
+                "last_name": {
+                    "S": "Snowden"
+                },
+                "first_name": {
+                    "S": "Tony"
+                },
+                "phone": {
+                    "S": "+64 9 5555500"
+                },
+                "address": {
+                    "S": "Arenales 1938 3"
+                },
+                "city_and_state": {
+                    "S": "Auckland"
+                },
+                "postal_code": {
+                    "S": "156546"
+                },
+                "country": {
+                    "S": "New Zealand"
+                }
+            }
+        }
+    }
+]
