@@ -2,7 +2,7 @@ import json
 import os
 
 
-json_file = r'C:\Users\khaza\Desktop\Udemy\Python_3_Deep_Dive\my_codes\customers.json'
+json_file = r'C:\Users\khaza\Desktop\python_projects\JSON_convert\customers.json'
 
 with open(json_file, 'r') as json_convert:
     data = json.load(json_convert)
@@ -27,7 +27,7 @@ for entry in data:
     }
     converted_file.append(converted_entry)
 
-output_file_path = r'C:\Users\khaza\Desktop\Udemy\Python_3_Deep_Dive\my_codes\converted_output.json'
+output_file_path = r'C:\Users\khaza\Desktop\python_projects\JSON_convert\converted_output.json'
 
 
 os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
