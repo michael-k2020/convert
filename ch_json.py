@@ -13,7 +13,7 @@ for entry in data:
     converted_entry = {
         "PutRequest": {
             "Item": {
-                "id": {"S": (entry["id"])},
+                "id": {"S": int(entry["id"])},
                 "company": {"S": entry["company"]},
                 "last_name": {"S": entry["last_name"]},
                 "first_name": {"S": entry["first_name"]},
